@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b28a2b86-016f-4b18-9573-5c28b815b0cb" name="Changes" comment="Technological Platforms Laboratory#2&#10;Move scanner to main class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-16/lib/src.zip!/java.base/java/util/HashMap.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26IRrEcOfQBrxZevP53rGSkzz0Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowGit.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Laboratorium_2_184589_Krystian_Jandy/laboratory-2-184589-Krystian-Jandy" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IV semestr\Platformy technologiczne\Laboratorium\Laboratorium_2\laboratory-2" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SessionLaboratory">
+    <configuration name="EmployeeLaboratory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jandy.Krystian.EmployeeLaboratory" />
+      <module name="laboratory-2" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;sort&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jandy.Krystian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MageLaboratory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Jandy.Krystian.MageLaboratory" />
+      <module name="laboratory-2" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;sort&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jandy.Krystian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SessionLaboratory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jandy.Krystian.SessionLaboratory" />
+      <module name="laboratory-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jandy.Krystian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MageLaboratory" />
+      <item itemvalue="Application.EmployeeLaboratory" />
+      <item itemvalue="Application.SessionLaboratory" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SessionLaboratory" />
+        <item itemvalue="Application.MageLaboratory" />
+        <item itemvalue="Application.EmployeeLaboratory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b28a2b86-016f-4b18-9573-5c28b815b0cb" name="Changes" comment="" />
+      <created>1647109313227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647109313227</updated>
+      <workItem from="1647109314803" duration="16776000" />
+      <workItem from="1647166896277" duration="269000" />
+      <workItem from="1647167192642" duration="1167000" />
+      <workItem from="1647168401786" duration="357000" />
+      <workItem from="1647168781760" duration="6687000" />
+      <workItem from="1647207238728" duration="349000" />
+      <workItem from="1647268818014" duration="202000" />
+      <workItem from="1647269044796" duration="58000" />
+      <workItem from="1647269509799" duration="58000" />
+      <workItem from="1647269573253" duration="137000" />
+      <workItem from="1647269729084" duration="54000" />
+      <workItem from="1647269805522" duration="1242000" />
+      <workItem from="1647271090063" duration="198000" />
+      <workItem from="1647271336773" duration="37000" />
+      <workItem from="1647293259360" duration="5978000" />
+      <workItem from="1647330179958" duration="654000" />
+      <workItem from="1647362445730" duration="6206000" />
+      <workItem from="1647434008422" duration="574000" />
+    </task>
+    <task id="LOCAL-00001" summary="Technological Platforms Laboratory#2">
+      <created>1647270903848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647270903848</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Technological Platforms Laboratory#2&#10;Add class with SessionScanner">
+      <created>1647296738403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647296738403</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Technological Platforms Laboratory#2&#10;Move scanner to main class">
+      <created>1647370132154</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647370132155</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Technological Platforms Laboratory#2" />
+    <MESSAGE value="Technological Platforms Laboratory#2&#10;Add class with SessionScanner" />
+    <MESSAGE value="Technological Platforms Laboratory#2&#10;Move scanner to main class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Technological Platforms Laboratory#2&#10;Move scanner to main class" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Jandy.Krystian.session.service.SessionService" memberName="results" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
