@@ -1,0 +1,164 @@
+<changelist name="Changes" date="1647268894893" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" />
+  <option name="DESCRIPTION" value="Changes" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/session/worker/Boss$BossBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Boss$BossBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/session/worker/Boss.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Boss.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/character/entity/Employee$EmployeeBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Employee$EmployeeBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/character/entity/Employee.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Employee.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/character/entity/comparator/EmployeeBySalaryComparator.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/EmployeeBySalaryComparator.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/EmployeeLaboratory.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/EmployeeLaboratory.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/character/repository/EmployeeRepository.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/EmployeeRepository.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/character/service/EmployeeService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/EmployeeService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/character/view/EmployeeView.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/EmployeeView.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/thread/Killer$KillerBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Killer$KillerBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/thread/Killer.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Killer.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/character/entity/Mage$MageBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Mage$MageBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/character/entity/Mage.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Mage.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/character/entity/comparator/MageByLevelComparator.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/MageByLevelComparator.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/MageLaboratory.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/MageLaboratory.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/character/repository/MageRepository.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/MageRepository.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/character/service/MageService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/MageService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/character/view/MageView.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/MageView.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/repository/MemoryRepository.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/MemoryRepository.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/session/quest/Quest$QuestBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Quest$QuestBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/session/quest/Quest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Quest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/session/quest/QuestBoard.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/QuestBoard.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/session/quest/QuestGenerator.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/QuestGenerator.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/session/result/ResultWriter.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ResultWriter.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/SessionLaboratory.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/SessionLaboratory.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/session/service/SessionService$SessionServiceBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/SessionService$SessionServiceBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/session/service/SessionService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/SessionService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/session/view/SessionView.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/SessionView.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/character/initialize/TestInitialize.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/TestInitialize.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/view/View.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/View.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/session/worker/Worker$WorkerBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Worker$WorkerBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Jandy/Krystian/session/worker/Worker.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Worker.class" />
+  </binary>
+</changelist>
