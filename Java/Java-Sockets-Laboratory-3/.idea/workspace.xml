@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b28a2b86-016f-4b18-9573-5c28b815b0cb" name="Changes" comment="Laboratory-3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Jandy/Krystian/controller/ConnectionManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Jandy/Krystian/controller/ConnectionManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Jandy/Krystian/controller/client/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Jandy/Krystian/controller/client/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Jandy/Krystian/controller/thread_server/IncomingSocketConnectionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Jandy/Krystian/controller/thread_server/IncomingSocketConnectionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Jandy/Krystian/controller/thread_server/SocketConnectionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Jandy/Krystian/controller/thread_server/SocketConnectionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Jandy/Krystian/controller/client/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Jandy/Krystian/controller/client/ClientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Jandy/Krystian/controller/thread_server/IncomingSocketConnectionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Jandy/Krystian/controller/thread_server/IncomingSocketConnectionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Jandy/Krystian/controller/thread_server/SocketConnectionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Jandy/Krystian/controller/thread_server/SocketConnectionHandler.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26IRrEcOfQBrxZevP53rGSkzz0Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowGit.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Przyklady_z_wykladu/JPA/simple-rpg-jpa" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IV semestr\Platformy technologiczne\Laboratorium\Laboratorium_2\laboratory-2" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientComponent">
+    <configuration name="ClientComponent" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Jandy.Krystian.ClientComponent" />
+      <module name="laboratory-3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jandy.Krystian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientComponent2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Jandy.Krystian.ClientComponent" />
+      <module name="laboratory-3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientComponent3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Jandy.Krystian.ClientComponent" />
+      <module name="laboratory-3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerComponent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jandy.Krystian.ServerComponent" />
+      <module name="laboratory-3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jandy.Krystian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="laboratory-3" type="Multirun" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="0.0">
+      <runConfiguration name="ServerComponent" type="Application" />
+      <runConfiguration name="ClientComponent" type="Application" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientComponent" />
+      <item itemvalue="Application.ClientComponent2" />
+      <item itemvalue="Application.ClientComponent3" />
+      <item itemvalue="Application.ServerComponent" />
+      <item itemvalue="Multirun.laboratory-3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerComponent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b28a2b86-016f-4b18-9573-5c28b815b0cb" name="Changes" comment="" />
+      <created>1647109313227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647109313227</updated>
+      <workItem from="1647109314803" duration="16776000" />
+      <workItem from="1647166896277" duration="269000" />
+      <workItem from="1647167192642" duration="1167000" />
+      <workItem from="1647168401786" duration="357000" />
+      <workItem from="1647168781760" duration="6687000" />
+      <workItem from="1647207238728" duration="349000" />
+      <workItem from="1647268818014" duration="202000" />
+      <workItem from="1647269044796" duration="58000" />
+      <workItem from="1647269509799" duration="58000" />
+      <workItem from="1647269573253" duration="137000" />
+      <workItem from="1647269729084" duration="54000" />
+      <workItem from="1647269805522" duration="1242000" />
+      <workItem from="1647271090063" duration="198000" />
+      <workItem from="1647271336773" duration="37000" />
+      <workItem from="1647293259360" duration="5978000" />
+      <workItem from="1647330179958" duration="654000" />
+      <workItem from="1647362445730" duration="4512000" />
+      <workItem from="1647388108637" duration="992000" />
+      <workItem from="1647446529191" duration="4487000" />
+      <workItem from="1647468078841" duration="3184000" />
+      <workItem from="1647471301925" duration="4801000" />
+      <workItem from="1647511028886" duration="912000" />
+      <workItem from="1647515007481" duration="1378000" />
+      <workItem from="1647529496865" duration="10608000" />
+      <workItem from="1647550918512" duration="4268000" />
+      <workItem from="1647718265054" duration="808000" />
+      <workItem from="1647862491063" duration="6866000" />
+      <workItem from="1647869492354" duration="11687000" />
+      <workItem from="1647896302257" duration="398000" />
+      <workItem from="1647941481670" duration="1868000" />
+      <workItem from="1647979359620" duration="3421000" />
+      <workItem from="1647984595643" duration="2000" />
+      <workItem from="1647985257186" duration="219000" />
+      <workItem from="1647985811286" duration="2691000" />
+      <workItem from="1648041544660" duration="4021000" />
+      <workItem from="1648120126471" duration="535000" />
+      <workItem from="1648162451677" duration="43000" />
+    </task>
+    <task id="LOCAL-00001" summary="Technological Platforms Laboratory#2">
+      <created>1647270903848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647270903848</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Technological Platforms Laboratory#2&#10;Add class with SessionScanner">
+      <created>1647296738403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647296738403</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Technological Platforms Laboratory#2&#10;Move scanner to main class">
+      <created>1647370132154</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647370132155</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Working objectInput and Output">
+      <created>1647871472331</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647871472331</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Before change to Object Wrapped">
+      <created>1647877403258</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647877403258</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Laboratory-3">
+      <created>1647886842909</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647886842909</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="9a4cc343-4476-4b50-8cc7-c97be75447c7">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="9a4cc343-4476-4b50-8cc7-c97be75447c7" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Technological Platforms Laboratory#2" />
+    <MESSAGE value="Technological Platforms Laboratory#2&#10;Add class with SessionScanner" />
+    <MESSAGE value="Technological Platforms Laboratory#2&#10;Move scanner to main class" />
+    <MESSAGE value="Working objectInput and Output" />
+    <MESSAGE value="Before change to Object Wrapped" />
+    <MESSAGE value="Laboratory-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laboratory-3" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Jandy.Krystian.session.service.SessionService" memberName="results" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/laboratory_3$ClientComponent.ic" NAME="ClientComponent Coverage Results" MODIFIED="1647871891417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Jandy.Krystian.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboratory_3$ServerComponent.ic" NAME="ServerComponent Coverage Results" MODIFIED="1647871889857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Jandy.Krystian.*</FILTER>
+    </SUITE>
+  </component>
+</project>
