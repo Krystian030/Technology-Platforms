@@ -1,0 +1,8 @@
+D:\Programming\C#\Platformy-technologiczne-laboratorium\Laboratorium_9_C#\Laboratory-9\bin\Debug\Laboratory-9.exe.config
+D:\Programming\C#\Platformy-technologiczne-laboratorium\Laboratorium_9_C#\Laboratory-9\bin\Debug\Laboratory-9.exe
+D:\Programming\C#\Platformy-technologiczne-laboratorium\Laboratorium_9_C#\Laboratory-9\bin\Debug\Laboratory-9.pdb
+D:\Programming\C#\Platformy-technologiczne-laboratorium\Laboratorium_9_C#\Laboratory-9\obj\Debug\Laboratory-9.csproj.AssemblyReference.cache
+D:\Programming\C#\Platformy-technologiczne-laboratorium\Laboratorium_9_C#\Laboratory-9\obj\Debug\Laboratory-9.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C#\Platformy-technologiczne-laboratorium\Laboratorium_9_C#\Laboratory-9\obj\Debug\Laboratory-9.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Platformy-technologiczne-laboratorium\Laboratorium_9_C#\Laboratory-9\obj\Debug\Laboratory-9.exe
+D:\Programming\C#\Platformy-technologiczne-laboratorium\Laboratorium_9_C#\Laboratory-9\obj\Debug\Laboratory-9.pdb
